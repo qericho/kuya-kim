@@ -12,7 +12,9 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
 Sample Image:
+
 <img width="333" height="615" alt="image" src="https://github.com/user-attachments/assets/c3624c92-da19-4fff-8302-892e989bbfba" />
+
 
 
 ```js
